@@ -1,0 +1,11 @@
+首先安装npm包管理工具
+安装淘宝镜像
+npm install -g vue-cli全局安装vue-cli脚手架工具
+vue init webpack 'my-first-project'基于webpack模板创建vue项目
+npm install 安装开发依赖包
+npm run dev 运行vue项目
+
+
+
+
+注：config中的index.js可修改端口号post
